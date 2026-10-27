@@ -1,0 +1,14 @@
+name: Feature request
+description: Describe the customer problem and boundaries.
+title: "[Feature] "
+body:
+  - type: textarea
+    id: need
+    attributes:
+      label: Customer workflow and proposed behavior
+    validations:
+      required: true
+  - type: textarea
+    id: basis
+    attributes:
+      label: Required facts, inputs and limitations

@@ -1,0 +1,10 @@
+node_modules/
+dist/
+playwright-report/
+test-results/
+.env*
+.DS_Store
+config.local.json
+customer-data/
+exports/
+*.pdf

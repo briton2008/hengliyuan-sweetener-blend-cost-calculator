@@ -1,0 +1,3 @@
+import test from "node:test";import assert from "node:assert/strict";import{standaloneHref}from"../src/standalone-routes.mjs";
+test("project home and license URLs work inside a Pages subdirectory",()=>{const b="https://example.github.io/project/";assert.equal(standaloneHref("/",b),b);assert.equal(standaloneHref("/licenses/recipe-price-calculator-MIT.txt",b),b+"licenses/recipe-price-calculator-MIT.txt");});
+test("company tools and other content retain their official domain",()=>{const b="https://example.github.io/project/";assert.equal(standaloneHref("/tools/",b),"https://heng-li-yuan.com/tools/");assert.equal(standaloneHref("https://example.org/",b),"https://example.org/");});

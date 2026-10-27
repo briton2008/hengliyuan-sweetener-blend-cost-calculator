@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Private security report
+    url: https://github.com/briton2008/hengliyuan-sweetener-blend-cost-calculator/security/policy
+    about: Do not post secrets or customer data publicly.
