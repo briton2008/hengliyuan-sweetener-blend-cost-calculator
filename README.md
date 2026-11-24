@@ -2,13 +2,22 @@
 
 [![CI](https://github.com/briton2008/hengliyuan-sweetener-blend-cost-calculator/actions/workflows/ci.yml/badge.svg)](https://github.com/briton2008/hengliyuan-sweetener-blend-cost-calculator/actions/workflows/ci.yml) [![Pages](https://github.com/briton2008/hengliyuan-sweetener-blend-cost-calculator/actions/workflows/pages.yml/badge.svg)](https://github.com/briton2008/hengliyuan-sweetener-blend-cost-calculator/actions/workflows/pages.yml) [![Release](https://img.shields.io/github/v/release/briton2008/hengliyuan-sweetener-blend-cost-calculator)](https://github.com/briton2008/hengliyuan-sweetener-blend-cost-calculator/releases) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-**[Company website](https://heng-li-yuan.com/) · [Live demo](https://briton2008.github.io/hengliyuan-sweetener-blend-cost-calculator/) · [Official company tool](https://heng-li-yuan.com/tools/sweetener-blend-cost-calculator/) · [中文](README.zh-CN.md)**
+**[Company website](https://heng-li-yuan.com/en/) · [GitHub Pages demo](https://briton2008.github.io/hengliyuan-sweetener-blend-cost-calculator/) · [Official company tool](https://heng-li-yuan.com/tools/sweetener-blend-cost-calculator/) · [中文](README.zh-CN.md)**
 
 [![Hengliyuan Sweetener Blend Cost Calculator](assets/team-cover-en.png)](https://heng-li-yuan.com/)
 
 Click the illustrated cover to visit the company website.
 
 Estimate blend cost, loss, bulk cartons, editable USD comparison and reference sweetness without uploading a formula. An independent English-language browser project. No login or automatic submissions.
+
+## Live Tool & Technical References
+
+- [Official Live Tool](https://heng-li-yuan.com/tools/sweetener-blend-cost-calculator/)
+- [All Free Tools Hub](https://heng-li-yuan.com/tools/)
+- [Company Website](https://heng-li-yuan.com/en/)
+- [Author ORCID](https://orcid.org/0009-0001-5898-1468)
+- [Zenodo Whitepaper DOI](https://doi.org/10.5281/zenodo.24450130)
+- [Figshare Freezing-Point Model DOI](https://doi.org/10.6084/m9.figshare.35102362.v1)
 
 ## What it does
 
